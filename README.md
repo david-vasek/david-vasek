@@ -3,7 +3,7 @@
 </div>
 
 <h1 align='center'>David Vasek</h1>
-<h2 align='center'>Full-Stack Developer</h2>
+<h1 align='center'>Full-Stack Developer</h1>
 <p align='center'>
 
 
@@ -46,4 +46,3 @@
 
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
