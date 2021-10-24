@@ -4,7 +4,7 @@
 
 <p align='center'>
 <h1 align='center'>David Vasek</h1>
-  <p align='center'>Full-Stack Developer</p>
+  <h2 align='center'>Full-Stack Developer</h2>
 </p>
 
 Here's a broad overview of my coding input so far. I am proficient in the MERN stack and looking to further improve my skills in this area.
