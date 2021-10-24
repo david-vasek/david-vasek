@@ -2,12 +2,9 @@
 <img width="80%" height = "300px" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif" alt="cover" />
 </div>
 
-<h1 align='center'>David Vasek</h1>
-<h1 align='center'>Full-Stack Developer</h1>
 <p align='center'>
-
-
-
+<h1 align='center'>David Vasek</h1>
+  <h1 align='center'>Full-Stack Developer</h1>
 </p>
 
 Here's a broad overview of my coding input so far. I am proficient in the MERN stack and looking to further improve my skills in this area.
