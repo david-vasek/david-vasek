@@ -4,10 +4,7 @@
 
 
 <h1 align='center'>David Vasek </h1> 
-<p align="center">
-  <img src="./lugia.gif" alt="Lugia" align="center" width="150">
-</p>
-  
+https://raw.githubusercontent.com/anshumanv/react-poke-sprites/master/lugia.gif
 
 
 Here's a broad overview of my coding input so far. I am proficient in the MERN stack and looking to further improve my skills in this area.
