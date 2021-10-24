@@ -4,7 +4,9 @@
 
 
 <h1 align='center'>David Vasek </h1> 
-![lugia](https://user-images.githubusercontent.com/83586205/138611787-2377ca6e-aa52-43e6-a737-2b63d9f8ed1e.gif)
+<div align="center">
+<img  src="https://raw.githubusercontent.com/anshumanv/react-poke-sprites/master/lugia.gif" alt="cover" />
+</div>
 
 
 
