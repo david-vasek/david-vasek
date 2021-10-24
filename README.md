@@ -2,10 +2,10 @@
 <img width="80%" height = "300px" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif" alt="cover" />
 </div>
 
-<p align='center'>
-<h1 align='center'>David Vasek</h1>
-  <h2 align='center'>Full-Stack Developer</h2>
-</p>
+
+<h1 align='center'>David Vasek ![Gengar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif)</h1>
+  
+
 
 Here's a broad overview of my coding input so far. I am proficient in the MERN stack and looking to further improve my skills in this area.
 
