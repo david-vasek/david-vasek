@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align='center'>David Vasek <img  src="https://raw.githubusercontent.com/anshumanv/react-poke-sprites/master/lugia.gif" alt="cover" /></h1> 
+<h1 align='center'>David Vasek</h1> 
 <!-- <div align="center">
 <img  src="https://raw.githubusercontent.com/anshumanv/react-poke-sprites/master/lugia.gif" alt="cover" />
 </div> -->
