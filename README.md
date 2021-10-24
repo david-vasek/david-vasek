@@ -4,7 +4,9 @@
 
 
 <h1 align='center'>David Vasek </h1> 
-
+<p align="center">
+  <img src="./lugia.gif" alt="Lugia" align="center" width="150">
+</p>
   
 
 
