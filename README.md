@@ -10,7 +10,8 @@
 
 
 
-Here's a broad overview of my coding input so far. I am proficient in the MERN stack and looking to further improve my skills in this area.
+#Overview 
+Here's a broad overview of my coding input so far and looking to further improve my skills in new areas area. <img  src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" alt="cover" />
 
 <div style="display:inline;">
   <img valign="top" src="https://github-readme-stats.vercel.app/api?username=david-vasek&theme=radical"/>
