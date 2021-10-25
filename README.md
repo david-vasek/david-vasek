@@ -14,8 +14,10 @@
 ## Overview <img  src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" alt="cover" />
 Here's a broad overview of my coding input so far and looking to further improve my skills in new areas area. 
 
-<div style="display:inline;">
+<div align="center">
   <img valign="top" src="https://github-readme-stats.vercel.app/api?username=david-vasek&theme=radical"/>
+</div>
+<div align="center">
   <img valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-vasek&layout=compact&show_icons=true&theme=radical"/>
 </div>
 </br>
