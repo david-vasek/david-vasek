@@ -11,7 +11,6 @@
 </div> 
  -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -19,10 +18,10 @@
 Here's a broad overview of my coding input so far and looking to further improve my skills in new areas area. 
 
 <div align="center">
-  <img valign="top" src="https://github-readme-stats.vercel.app/api?username=david-vasek&theme=radical"/>
+  <img valign="top" src="https://github-readme-stats.vercel.app/api?username=david-vasek&theme=dracula"/>
 </div>
 <div align="center">
-  <img valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-vasek&layout=compact&show_icons=true&theme=radical"/>
+  <img valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-vasek&layout=compact&show_icons=true&theme=dracula"/>
 </div>
 <div align="center">
 <img  src="https://cdn.shopify.com/s/files/1/1793/0115/files/Lugia_ec5f6d45-05fa-43ac-822d-0c26c308ca46_160x160.gif?v=1604073069" alt="cover" />
