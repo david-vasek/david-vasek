@@ -4,7 +4,7 @@
 </div>
 
 
-<h1 align='center'>I'm a Full-Stack Developer</h1> 
+<!-- <h1 align='center'>I'm a Full-Stack Developer</h1>  -->
 <!-- <div align="center">
 <img  src="https://raw.githubusercontent.com/anshumanv/react-poke-sprites/master/lugia.gif" alt="cover" />
 </div> 
