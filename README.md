@@ -1,10 +1,10 @@
 <div align="center">
-  <h1 align='center'>David Vasek</h1> 
+  <h1 align='center'>Hi, my name is David Vasek</h1> 
 <img width="80%" height = "300px" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif" alt="cover" />
 </div>
 
 
-<h1 align='center'>Full-Stack Developer</h1> 
+<h1 align='center'>I'm a Full-Stack Developer</h1> 
 <!-- <div align="center">
 <img  src="https://raw.githubusercontent.com/anshumanv/react-poke-sprites/master/lugia.gif" alt="cover" />
 </div> 
