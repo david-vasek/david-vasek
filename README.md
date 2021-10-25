@@ -1,3 +1,5 @@
+
+
 <div align="center">
   <h1 align='center'>Hi, my name is David Vasek  <img  src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" alt="cover" /></h1> 
 <img width="80%" height = "300px" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif" alt="cover" />
@@ -8,6 +10,9 @@
 <img  src="https://raw.githubusercontent.com/anshumanv/react-poke-sprites/master/lugia.gif" alt="cover" />
 </div> 
  -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ## Overview 
