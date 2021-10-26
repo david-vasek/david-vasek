@@ -1,9 +1,12 @@
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/83586205/138935482-8c16eb44-406a-4ba4-8559-3a0c304c7355.gif)
 
 
+
+<!-- 
 <div align="center">
-  <h1 align='center'>Hi, my name is David Vasek  <img  src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" alt="cover" /></h1> 
-<img width="80%" height = "300px" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif" alt="cover" />
-</div>
+<!--   <h1 align='center'>Hi, my name is David Vasek  <img  src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" alt="cover" /></h1>  -->
+<!-- <img width="80%" height = "300px" src="" alt="cover" /> -->
+<!-- </div> --> 
 
 <!-- <h1 align='center'>I'm a Full-Stack Developer</h1>  -->
 <!-- <div align="center">
