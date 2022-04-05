@@ -1,5 +1,6 @@
-
-
+<div align="center">
+ <a href="https://app.daily.dev/davidvasek5"><img src="https://api.daily.dev/devcards/74f74bf21b824a32b83d7d443ab3a355.png?r=nop" width="400" alt="David Vasek's Dev Card"/></a>
+</div>
 
 
 <!-- 
