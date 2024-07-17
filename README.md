@@ -1,6 +1,4 @@
-<div align="center">
- <a href="https://app.daily.dev/davidvasek5"><img src="https://api.daily.dev/devcards/74f74bf21b824a32b83d7d443ab3a355.png?r=nop" width="400" alt="David Vasek's Dev Card"/></a>
-</div>
+
 
 
 <!-- 
@@ -18,19 +16,7 @@
 
 
 
-## Overview 
-Here's a broad overview of my coding input so far and looking to further improve my skills in new areas . 
 
-<div align="center">
-  <img valign="top" src="https://github-readme-stats.vercel.app/api?username=david-vasek&theme=dracula"/>
-</div>
-<div align="center">
-  <img valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-vasek&layout=compact&show_icons=true&theme=dracula"/>
-</div>
-<div align="center">
-
-  </div>
-</br>
 
 
 ## Skills <img  src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/196.gif" alt="cover" />
